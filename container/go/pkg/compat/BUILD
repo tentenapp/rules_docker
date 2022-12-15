@@ -22,6 +22,7 @@ go_library(
     srcs = [
         "config.go",
         "image.go",
+        "image_index.go",
         "reader.go",
         "write.go",
     ],
